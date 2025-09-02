@@ -1,0 +1,6 @@
+﻿  lab1.cpp
+C:\Users\Omar\Desktop\data 2\lab1\lab1.cpp(9,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Omar\Desktop\data 2\lab1\lab1.cpp(21,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Omar\Desktop\data 2\lab1\lab1.cpp(32,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Omar\Desktop\data 2\lab1\lab1.cpp(82,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lab1.vcxproj -> C:\Users\Omar\Desktop\data 2\lab1\x64\Debug\lab1.exe
